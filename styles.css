@@ -343,6 +343,7 @@ body {
   background: #f4d35e;
   box-shadow: 0 8px 18px rgba(0, 0, 0, 0.2), 0 0 0 3px rgba(244, 211, 94, 0.35);
   transform: translateY(-1px) scale(1.03);
+  z-index: -1 !important;
 }
 
 .nav-btn:hover:not(:disabled),
